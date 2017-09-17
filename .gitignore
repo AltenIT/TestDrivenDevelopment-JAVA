@@ -1,1 +1,6 @@
 **/target/*
+**/.project
+**/.classpath
+**/.settings/*
+ShoppingBasket/.classpath
+ShoppingBasket/.settings/*
